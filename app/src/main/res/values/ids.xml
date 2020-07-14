@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="button_toast" type="id" />
+    <item name="button_snack" type="id" />
+    <item name="button_get_spinner" type="id" />
+    <item name="button_set_spinner" type="id" />
+    <item name="button_get_seekbar" type="id" />
+    <item name="button_set_seekbar" type="id" />
+    <item name="switch_on_off" type="id" />
+    <item name="checkbox_on_off" type="id" />
+    <item name="radio_yes" type="id" />
+    <item name="radio_no" type="id" />
+    <item name="button_date" type="id" />
+    <item name="button_get_time" type="id" />
+    <item name="button_set_time" type="id" />
+</resources>
